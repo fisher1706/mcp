@@ -1,1 +1,1 @@
-# mcp
+# https://github.com/pdichone/mcp-course-code
